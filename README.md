@@ -1,5 +1,11 @@
 # LocalPOS Pro
 
+![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-SQLite-0F9D58?logo=sqlite&logoColor=white)
+![Offline First](https://img.shields.io/badge/Data-Offline--first-176B4D)
+
 **Scan. Sell. Print.**
 
 LocalPOS Pro là ứng dụng bán hàng Android dành cho cửa hàng nhỏ, shop mini, quầy kiosk, pop-up store và người bán hàng cần một công cụ POS đơn giản ngay trên điện thoại.
@@ -176,4 +182,3 @@ LocalPOS Pro được phát triển theo định hướng: phần mềm bán hà
 **ASLDEV.VN — Building Apps That Matter.**
 
 Copyright © 2026 ASLDEV.VN.
-
